@@ -1,4 +1,5 @@
 # Machine-Learning-Projects
+There is Property Price prediction, Spam Classification, Customer Churn Prediction
 These ML projects are on Linear Regression, Logistic Regression, Random Forest Classifier, Gradient Boosting.
 
 Dataset are gathered from different sources like Kaggel, scikit-learn datasets.
